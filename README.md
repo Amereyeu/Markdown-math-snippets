@@ -34,7 +34,21 @@
 
 ## Snippets
 
-## Arrows
+### Accents
+
+| Symbol         | Command     |
+| -------------- | ----------- |
+| $\acute{a}$    | `\acute`    |
+| $\breve{a}$    | `\breve`    |
+| $\check{a}$    | `\check`    |
+| $\ddot{a}$     | `\ddot`     |
+| $\dot{a}$      | `\dot`      |
+| $\grave{a}$    | `\grave`    |
+| $\hat{a}$      | `\hat `     |
+| $\mathring{a}$ | `\mathring` |
+| $\tilde{a}$    | `\tilde`    |
+
+### Arrows
 
 | Symbol                    | Command                   |
 | ------------------------- | ------------------------- |
@@ -74,6 +88,16 @@
 | $\Uparrow$                | `\Uparrow`                |
 | $\updownarrow$            | `\updownarrow`            |
 | $\Updownarrow$            | `\Updownarrow`            |
+
+## Dots
+
+| Symbol   | Command  |
+| -------- | -------- |
+| $\cdot$  | `\cdot`  |
+| $\cdots$ | `\cdots` |
+| $\ddots$ | `\ddots` |
+| $\dots$  | `\dots`  |
+| $\vdots$ | `\vdots` |
 
 ### Greek Alphabet
 

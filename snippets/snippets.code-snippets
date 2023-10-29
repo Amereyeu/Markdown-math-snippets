@@ -35,6 +35,16 @@
     "body": ["${1|\\downarrow,\\Downarrow,\\gets,\\hookleftarrow,\\hookrightarrow,\\leadsto,\\leftarrow,\\Leftarrow,\\leftharpoonup,\\leftrightarrow,\\Leftrightarrow,\\longleftarrow,\\Longleftarrow,\\longleftrightarrow,\\Longleftrightarrow,\\longmapsto,\\longrightarrow,\\Longrightarrow,\\mapsto,\\nearrow,\\nwarrow,\\overleftarrow{AB},\\overleftrightarrow{AB},\\overrightarrow{AB},\\rightarrow,\\Rightarrow,\\rightharpoondown,\\rightharpoonup,\\rightleftharpoons,\\searrow,\\swarrow,\\to,\\uparrow,\\Uparrow,\\updownarrow,\\Updownarrow|} $0"]
     "description": "Markdown Math Arrows",
   },
+  "Dots": {
+    "prefix": "md-math-dots",
+    "body": ["${1|\\cdot,\\cdots,\\ddots,\\dots,\\vdots|} $0"]
+    "description": "Markdown Math Dots",
+  },
+  "Accents": {
+    "prefix": "md-math-accents",
+    "body": ["${1|\\acute,\\breve,\\check,\\ddot,\\dot,\\grave,\\hat,\\tilde|} $0"]
+    "description": "Markdown Math Accents",
+  },
 }
 
 

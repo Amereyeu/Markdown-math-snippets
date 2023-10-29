@@ -2,4 +2,6 @@
 
 - Initial release
 
+## [1.1.0]
 
+- Added Dots and Accents
