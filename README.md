@@ -36,27 +36,27 @@
 
 ### Accents
 
-<img src="images/accents.png" alt="accents">
+<img src="images/accents.png" alt="accents" width="520">
 
 ### Arrows
 
-<img src="images/arrows.png" alt="arrows">
+<img src="images/arrows.png" alt="arrows" width="520">
 
 ## Dots
 
-<img src="images/dots.png" alt="dots">
+<img src="images/dots.png" alt="dots" width="520">
 
 ### Greek Alphabet
 
-<img src="images/alphabet.png" alt="alphabet">
+<img src="images/alphabet.png" alt="alphabet" width="520">
 
 ### Operators
 
-<img src="images/operators.png" alt="operators">
+<img src="images/operators.png" alt="operators" width="520">
 
 ### Relations
 
-<img src="images/relations.png" alt="relations">
+<img src="images/relations.png" alt="relations" width="520">
 
 ## Usage
 
