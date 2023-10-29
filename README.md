@@ -50,6 +50,10 @@
 
 <img src="images/alphabet.png" alt="alphabet" width="520">
 
+### Miscellaneous
+
+<img src="images/miscellaneous.png" alt="miscellaneous" width="520">
+
 ### Operators
 
 <img src="images/operators.png" alt="operators" width="520">

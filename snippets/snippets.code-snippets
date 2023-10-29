@@ -55,6 +55,11 @@
     "body": ["${1|\\approx,\\asymp,\\bowtie,\\bumpeq,\\dashv,\\doteq,\\equiv,\\frown,\\ge,\\gg,\\in,\\le,\\ll,\\mid,\\models,\\neq,\\ni,\\parallel,\\perp,\\prec,\\preceq,\\propto,\\sim,\\simeq,\\smile,\\sqsubset,\\sqsubseteq,\\sqsupset,\\sqsupseteq,\\subset,\\subseteq,\\succ,\\succeq,\\supseteq,\\vdash|} $0"]
     "description": "Markdown Math Relations",
   },
+  "Miscellaneous": {
+    "prefix": "md-math-miscellaneous",
+    "body": ["${1|\\aleph,\\angle,\\backslash,\\bigstar,\\blacksquare,\\bot,\\Box,\\checkmark,\\clubsuit,\\copyright,\\cup,\\dashv,\\Diamond,\\diamondsuit,\\diamondsuit,\\ell,\\emptyset,\\exists,\\flat,\\forall,\\hbar,\\heartsuit,\\heartsuit,\\implies,\\Im,\\in,\\infty,\\Join,\\mathbb{R},\\mho,\\nabla,\\neg,\\P,\\partial,\\pounds,\\prime,\\Re,\\S,\\sharp,\\spadesuit,\\square,\\surd,\\top,\\triangle,\\vdash,\\vDash,\\wp|} $0"]
+    "description": "Markdown Math Miscellaneous",
+  },
 }
 
 
