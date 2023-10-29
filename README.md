@@ -34,6 +34,47 @@
 
 ## Snippets
 
+## Arrows
+
+| Symbol                    | Command                   |
+| ------------------------- | ------------------------- |
+| $\downarrow$              | `\downarrow`              |
+| $\Downarrow$              | `\Downarrow`              |
+| $\gets$                   | `\gets`                   |
+| $\hookleftarrow$          | `\hookleftarrow`          |
+| $\hookrightarrow$         | `\hookrightarrow`         |
+| $\leadsto$                | `\leadsto`                |
+| $\leftarrow$              | `\leftarrow`              |
+| $\Leftarrow$              | `\Leftarrow`              |
+| $\leftharpoonup$          | `\leftharpoonup`          |
+| $\leftrightarrow$         | `\leftrightarrow`         |
+| $\Leftrightarrow$         | `\Leftrightarrow`         |
+| $\longleftarrow$          | `\longleftarrow`          |
+| $\Longleftarrow$          | `\Longleftarrow`          |
+| $\longleftrightarrow$     | `\longleftrightarrow`     |
+| $\Longleftrightarrow$     | `\Longleftrightarrow`     |
+| $\longmapsto$             | `\longmapsto`             |
+| $\longrightarrow$         | `\longrightarrow`         |
+| $\Longrightarrow$         | `\Longrightarrow`         |
+| $\mapsto$                 | `\mapsto`                 |
+| $\nearrow$                | `\nearrow`                |
+| $\nwarrow$                | `\nwarrow`                |
+| $\overleftarrow{AB}$      | `\overleftarrow{AB}`      |
+| $\overleftrightarrow{AB}$ | `\overleftrightarrow{AB}` |
+| $\overrightarrow{AB}$     | `\overrightarrow{AB}`     |
+| $\rightarrow$             | `\rightarrow`             |
+| $\Rightarrow$             | `\Rightarrow`             |
+| $\rightharpoondown$       | `\rightharpoondown`       |
+| $\rightharpoonup$         | `\rightharpoonup`         |
+| $\rightleftharpoons$      | `\rightleftharpoons`      |
+| $\searrow$                | `\searrow`                |
+| $\swarrow$                | `\swarrow`                |
+| $\to$                     | `\to`                     |
+| $\uparrow$                | `\uparrow`                |
+| $\Uparrow$                | `\Uparrow`                |
+| $\updownarrow$            | `\updownarrow`            |
+| $\Updownarrow$            | `\Updownarrow`            |
+
 ### Greek Alphabet
 
 | Symbol     | Script     |
