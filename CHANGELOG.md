@@ -5,3 +5,7 @@
 ## [1.1.0]
 
 - Added Dots and Accents
+
+## [1.2.0]
+
+- Added Operators and Relations

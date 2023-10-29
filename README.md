@@ -150,6 +150,97 @@
 | $\omega$   | `\omega`   |
 | $\Omega$   | `\Omega`   |
 
+### Operators
+
+| Symbol             | Command            |
+| ------------------ | ------------------ |
+| $\amalg$           | `\amalg`           |
+| $\ast$             | `\ast`             |
+| $\bigcirc$         | `\bigcirc`         |
+| $\bigtriangledown$ | `\bigtriangledown` |
+| $\bigtriangleup$   | `\bigtriangleup`   |
+| $\Box$             | `\Box`             |
+| $\bullet$          | `\bullet`          |
+| $\cap$             | `\cap`             |
+| $\cdot$            | `\cdot`            |
+| $\circ$            | `\circ`            |
+| $\cup$             | `\cup`             |
+| $\dagger$          | `\dagger`          |
+| $\ddagger$         | `\ddagger`         |
+| $\diamond$         | `\diamond`         |
+| $\Diamond$         | `\Diamond`         |
+| $\div$             | `\div`             |
+| $\lhd$             | `\lhd`             |
+| $\mp$              | `\mp`              |
+| $\odot$            | `\odot`            |
+| $\ominus$          | `\ominus`          |
+| $\oplus$           | `\oplus`           |
+| $\oslash$          | `\oslash`          |
+| $\otimes$          | `\otimes`          |
+| $\pm$              | `\pm`              |
+| $\rhd$             | `\rhd`             |
+| $\setminus$        | `\setminus`        |
+| $\sqcap$           | `\sqcap`           |
+| $\sqcup$           | `\sqcup`           |
+| $\sqrt[n]{x}$      | `\sqrt\[n\]{x}`    |
+| $\sqrt{x}$         | `\sqrt{x}`         |
+| $\star$            | `\star`            |
+| $\times$           | `\times`           |
+| $\triangledown$    | `\triangledown`    |
+| $\triangleleft$    | `\triangleleft`    |
+| $\triangleright$   | `\triangleright`   |
+| $\unlhd$           | `\unlhd`           |
+| $\unrhd$           | `\unrhd`           |
+| $\uplus$           | `\uplus`           |
+| $\vee$             | `\vee`             |
+| $\wedge$           | `\wedge`           |
+| $\wr$              | `\wr`              |
+| $a_x$              | `a_x`              |
+| $a^{xyz}$          | `^{xyz}`           |
+| $a^x$              | `a^x`              |
+| $x^{\circ}$        | `x^{\\circ}`       |
+
+### Relations
+
+| Symbol        | Command       |
+| ------------- | ------------- |
+| $\approx$     | `\approx`     |
+| $\asymp$      | `\asymp`      |
+| $\bowtie$     | `\bowtie`     |
+| $\bumpeq$     | `\bumpeq`     |
+| $\cong$       | `\cong`       |
+| $\dashv$      | `\dashv`      |
+| $\doteq$      | `\doteq`      |
+| $\equiv$      | `\equiv`      |
+| $\frown$      | `\frown`      |
+| $\ge$         | `\ge`         |
+| $\gg$         | `\gg`         |
+| $\in$         | `\in`         |
+| $\le$         | `\le`         |
+| $\ll$         | `\ll`         |
+| $\mid$        | `\mid`        |
+| $\models$     | `\models`     |
+| $\neq$        | `\neq`        |
+| $\ni$         | `\ni`         |
+| $\parallel$   | `\parallel`   |
+| $\perp$       | `\perp`       |
+| $\prec$       | `\prec`       |
+| $\preceq$     | `\preceq`     |
+| $\propto$     | `\propto`     |
+| $\sim$        | `\sim`        |
+| $\simeq$      | `\simeq`      |
+| $\smile$      | `\smile`      |
+| $\sqsubset$   | `\sqsubset`   |
+| $\sqsubseteq$ | `\sqsubseteq` |
+| $\sqsupset$   | `\sqsupset`   |
+| $\sqsupseteq$ | `\sqsupseteq` |
+| $\subset$     | `\subset`     |
+| $\subseteq$   | `\subseteq`   |
+| $\succ$       | `\succ`       |
+| $\succeq$     | `\succeq`     |
+| $\supseteq$   | `\supseteq`   |
+| $\vdash$      | `\vdash`      |
+
 ## Usage
 
 Snippets are only active in Markdown files. If they do not show up edit your `settings.json` file and add following code:

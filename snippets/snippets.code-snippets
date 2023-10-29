@@ -45,6 +45,16 @@
     "body": ["${1|\\acute,\\breve,\\check,\\ddot,\\dot,\\grave,\\hat,\\tilde|} $0"]
     "description": "Markdown Math Accents",
   },
+  "Operators": {
+    "prefix": "md-math-operators",
+    "body": ["${1|\\amalg,\\ast,\\bigcirc,\\bigtriangledown,\\bigtriangleup,\\Box,\\bullet,\\cap,\\cdot,\\circ,\\cup,\\dagger,\\ddagger,\\diamond,\\Diamond,\\div,\\lhd,\\mp,\\odot,\\ominus,\\oplus,\\oslash,\\otimes,\\pm,\\rhd,\\setminus,\\sqcap,\\sqcup,\\sqrt[n]{x},\\sqrt,\\star,\\times,\\triangledown,\\triangleleft,\\triangleright,\\unlhd,\\unrhd,\\uplus,\\vee,\\wedge,\\wr,\\a_x,\\a^{xyz},\\a^x,\\x^{\\circ}|} $0"]
+    "description": "Markdown Math Operators",
+  },
+  "Relations": {
+    "prefix": "md-math-relations",
+    "body": ["${1|\\approx,\\asymp,\\bowtie,\\bumpeq,\\dashv,\\doteq,\\equiv,\\frown,\\ge,\\gg,\\in,\\le,\\ll,\\mid,\\models,\\neq,\\ni,\\parallel,\\perp,\\prec,\\preceq,\\propto,\\sim,\\simeq,\\smile,\\sqsubset,\\sqsubseteq,\\sqsupset,\\sqsupseteq,\\subset,\\subseteq,\\succ,\\succeq,\\supseteq,\\vdash|} $0"]
+    "description": "Markdown Math Relations",
+  },
 }
 
 
