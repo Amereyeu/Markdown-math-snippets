@@ -47,7 +47,7 @@
   },
   "Operators": {
     "prefix": "md-math-operators",
-    "body": ["${1|\\amalg,\\ast,\\bigcirc,\\bigtriangledown,\\bigtriangleup,\\Box,\\bullet,\\cap,\\cdot,\\circ,\\cup,\\dagger,\\ddagger,\\diamond,\\Diamond,\\div,\\lhd,\\mp,\\odot,\\ominus,\\oplus,\\oslash,\\otimes,\\pm,\\rhd,\\setminus,\\sqcap,\\sqcup,\\sqrt[n]{x},\\sqrt,\\star,\\times,\\triangledown,\\triangleleft,\\triangleright,\\unlhd,\\unrhd,\\uplus,\\vee,\\wedge,\\wr,\\a_x,\\a^{xyz},\\a^x,\\x^{\\circ}|} $0"]
+    "body": ["${1|\\amalg,\\ast,\\bigcirc,\\bigtriangledown,\\bigtriangleup,\\Box,\\bullet,\\cap,\\cdot,\\circ,\\cup,\\dagger,\\ddagger,\\diamond,\\Diamond,\\div,\\lhd,\\mp,\\odot,\\ominus,\\oplus,\\oslash,\\otimes,\\pm,\\rhd,\\setminus,\\sqcap,\\sqcup,\\sqrt[n]{x},\\sqrt,\\star,\\times,\\triangledown,\\triangleleft,\\triangleright,\\unlhd,\\unrhd,\\uplus,\\vee,\\wedge,\\wr,\\_x,\\^{xyz},\\^x,\\^{\\circ}|} $0"]
     "description": "Markdown Math Operators",
   },
   "Relations": {

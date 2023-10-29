@@ -36,210 +36,27 @@
 
 ### Accents
 
-| Symbol         | Command     |
-| -------------- | ----------- |
-| $\acute{a}$    | `\acute`    |
-| $\breve{a}$    | `\breve`    |
-| $\check{a}$    | `\check`    |
-| $\ddot{a}$     | `\ddot`     |
-| $\dot{a}$      | `\dot`      |
-| $\grave{a}$    | `\grave`    |
-| $\hat{a}$      | `\hat `     |
-| $\mathring{a}$ | `\mathring` |
-| $\tilde{a}$    | `\tilde`    |
+<img src="images/accents.png" alt="accents">
 
 ### Arrows
 
-| Symbol                    | Command                   |
-| ------------------------- | ------------------------- |
-| $\downarrow$              | `\downarrow`              |
-| $\Downarrow$              | `\Downarrow`              |
-| $\gets$                   | `\gets`                   |
-| $\hookleftarrow$          | `\hookleftarrow`          |
-| $\hookrightarrow$         | `\hookrightarrow`         |
-| $\leadsto$                | `\leadsto`                |
-| $\leftarrow$              | `\leftarrow`              |
-| $\Leftarrow$              | `\Leftarrow`              |
-| $\leftharpoonup$          | `\leftharpoonup`          |
-| $\leftrightarrow$         | `\leftrightarrow`         |
-| $\Leftrightarrow$         | `\Leftrightarrow`         |
-| $\longleftarrow$          | `\longleftarrow`          |
-| $\Longleftarrow$          | `\Longleftarrow`          |
-| $\longleftrightarrow$     | `\longleftrightarrow`     |
-| $\Longleftrightarrow$     | `\Longleftrightarrow`     |
-| $\longmapsto$             | `\longmapsto`             |
-| $\longrightarrow$         | `\longrightarrow`         |
-| $\Longrightarrow$         | `\Longrightarrow`         |
-| $\mapsto$                 | `\mapsto`                 |
-| $\nearrow$                | `\nearrow`                |
-| $\nwarrow$                | `\nwarrow`                |
-| $\overleftarrow{AB}$      | `\overleftarrow{AB}`      |
-| $\overleftrightarrow{AB}$ | `\overleftrightarrow{AB}` |
-| $\overrightarrow{AB}$     | `\overrightarrow{AB}`     |
-| $\rightarrow$             | `\rightarrow`             |
-| $\Rightarrow$             | `\Rightarrow`             |
-| $\rightharpoondown$       | `\rightharpoondown`       |
-| $\rightharpoonup$         | `\rightharpoonup`         |
-| $\rightleftharpoons$      | `\rightleftharpoons`      |
-| $\searrow$                | `\searrow`                |
-| $\swarrow$                | `\swarrow`                |
-| $\to$                     | `\to`                     |
-| $\uparrow$                | `\uparrow`                |
-| $\Uparrow$                | `\Uparrow`                |
-| $\updownarrow$            | `\updownarrow`            |
-| $\Updownarrow$            | `\Updownarrow`            |
+<img src="images/arrows.png" alt="arrows">
 
 ## Dots
 
-| Symbol   | Command  |
-| -------- | -------- |
-| $\cdot$  | `\cdot`  |
-| $\cdots$ | `\cdots` |
-| $\ddots$ | `\ddots` |
-| $\dots$  | `\dots`  |
-| $\vdots$ | `\vdots` |
+<img src="images/dots.png" alt="dots">
 
 ### Greek Alphabet
 
-| Symbol     | Script     |
-| ---------- | ---------- |
-| $\alpha$   | `\alpha`   |
-| $\Alpha$   | `\Alpha`   |
-| $\beta$    | `\beta`    |
-| $\Beta$    | `\Beta`    |
-| $\gamma$   | `\gamma`   |
-| $\Gamma$   | `\Gamma`   |
-| $\delta$   | `\delta`   |
-| $\Delta$   | `\Delta`   |
-| $\epsilon$ | `\epsilon` |
-| $\Epsilon$ | `\Epsilon` |
-| $\zeta$    | `\zeta`    |
-| $\Zeta$    | `\Zeta`    |
-| $\eta$     | `\eta`     |
-| $\Eta$     | `\Eta`     |
-| $\theta$   | `\theta`   |
-| $\Theta$   | `\Theta`   |
-| $\kappa$   | `\kappa`   |
-| $\Kappa$   | `\Kappa`   |
-| $\lambda$  | `\lambda`  |
-| $\Lambda$  | `\Lambda`  |
-| $\mu$      | `\mu`      |
-| $\Mu$      | `\Mu`      |
-| $\nu$      | `\nu`      |
-| $\Nu$      | `\Nu`      |
-| $\xi$      | `\xi`      |
-| $\Xi$      | `\Xi`      |
-| $\omicron$ | `\omicron` |
-| $\Omicron$ | `\Omicron` |
-| $\pi$      | `\pi`      |
-| $\Pi$      | `\Pi`      |
-| $\rho$     | `\rho`     |
-| $\Rho$     | `\Rho`     |
-| $\sigma$   | `\sigma`   |
-| $\Sigma$   | `\Sigma`   |
-| $\tau$     | `\tau`     |
-| $\Tau$     | `\Tau`     |
-| $\upsilon$ | `\upsilon` |
-| $\Upsilon$ | `\Upsilon` |
-| $\phi$     | `\phi`     |
-| $\Phi$     | `\Phi`     |
-| $\chi$     | `\chi`     |
-| $\Chi$     | `\Chi`     |
-| $\psi$     | `\psi`     |
-| $\Psi$     | `\Psi`     |
-| $\omega$   | `\omega`   |
-| $\Omega$   | `\Omega`   |
+<img src="images/alphabet.png" alt="alphabet">
 
 ### Operators
 
-| Symbol             | Command            |
-| ------------------ | ------------------ |
-| $\amalg$           | `\amalg`           |
-| $\ast$             | `\ast`             |
-| $\bigcirc$         | `\bigcirc`         |
-| $\bigtriangledown$ | `\bigtriangledown` |
-| $\bigtriangleup$   | `\bigtriangleup`   |
-| $\Box$             | `\Box`             |
-| $\bullet$          | `\bullet`          |
-| $\cap$             | `\cap`             |
-| $\cdot$            | `\cdot`            |
-| $\circ$            | `\circ`            |
-| $\cup$             | `\cup`             |
-| $\dagger$          | `\dagger`          |
-| $\ddagger$         | `\ddagger`         |
-| $\diamond$         | `\diamond`         |
-| $\Diamond$         | `\Diamond`         |
-| $\div$             | `\div`             |
-| $\lhd$             | `\lhd`             |
-| $\mp$              | `\mp`              |
-| $\odot$            | `\odot`            |
-| $\ominus$          | `\ominus`          |
-| $\oplus$           | `\oplus`           |
-| $\oslash$          | `\oslash`          |
-| $\otimes$          | `\otimes`          |
-| $\pm$              | `\pm`              |
-| $\rhd$             | `\rhd`             |
-| $\setminus$        | `\setminus`        |
-| $\sqcap$           | `\sqcap`           |
-| $\sqcup$           | `\sqcup`           |
-| $\sqrt[n]{x}$      | `\sqrt\[n\]{x}`    |
-| $\sqrt{x}$         | `\sqrt{x}`         |
-| $\star$            | `\star`            |
-| $\times$           | `\times`           |
-| $\triangledown$    | `\triangledown`    |
-| $\triangleleft$    | `\triangleleft`    |
-| $\triangleright$   | `\triangleright`   |
-| $\unlhd$           | `\unlhd`           |
-| $\unrhd$           | `\unrhd`           |
-| $\uplus$           | `\uplus`           |
-| $\vee$             | `\vee`             |
-| $\wedge$           | `\wedge`           |
-| $\wr$              | `\wr`              |
-| $a_x$              | `a_x`              |
-| $a^{xyz}$          | `^{xyz}`           |
-| $a^x$              | `a^x`              |
-| $x^{\circ}$        | `x^{\\circ}`       |
+<img src="images/operators.png" alt="operators">
 
 ### Relations
 
-| Symbol        | Command       |
-| ------------- | ------------- |
-| $\approx$     | `\approx`     |
-| $\asymp$      | `\asymp`      |
-| $\bowtie$     | `\bowtie`     |
-| $\bumpeq$     | `\bumpeq`     |
-| $\cong$       | `\cong`       |
-| $\dashv$      | `\dashv`      |
-| $\doteq$      | `\doteq`      |
-| $\equiv$      | `\equiv`      |
-| $\frown$      | `\frown`      |
-| $\ge$         | `\ge`         |
-| $\gg$         | `\gg`         |
-| $\in$         | `\in`         |
-| $\le$         | `\le`         |
-| $\ll$         | `\ll`         |
-| $\mid$        | `\mid`        |
-| $\models$     | `\models`     |
-| $\neq$        | `\neq`        |
-| $\ni$         | `\ni`         |
-| $\parallel$   | `\parallel`   |
-| $\perp$       | `\perp`       |
-| $\prec$       | `\prec`       |
-| $\preceq$     | `\preceq`     |
-| $\propto$     | `\propto`     |
-| $\sim$        | `\sim`        |
-| $\simeq$      | `\simeq`      |
-| $\smile$      | `\smile`      |
-| $\sqsubset$   | `\sqsubset`   |
-| $\sqsubseteq$ | `\sqsubseteq` |
-| $\sqsupset$   | `\sqsupset`   |
-| $\sqsupseteq$ | `\sqsupseteq` |
-| $\subset$     | `\subset`     |
-| $\subseteq$   | `\subseteq`   |
-| $\succ$       | `\succ`       |
-| $\succeq$     | `\succeq`     |
-| $\supseteq$   | `\supseteq`   |
-| $\vdash$      | `\vdash`      |
+<img src="images/relations.png" alt="relations">
 
 ## Usage
 
