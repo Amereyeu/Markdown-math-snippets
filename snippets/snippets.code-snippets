@@ -1,4 +1,30 @@
 {
+  "Math Block": {
+    "prefix": "md-math-block",
+    "body": [
+      "$$${1:math-equation}$$"
+      "${0}"
+    ],
+    "description": "Markdown Math Block"
+  },
+  "Math Block v2": {
+    "prefix": "md-math-block-v2",
+    "body": [
+      "```math", 
+      "$1",
+      "```", 
+      "${0}"
+    ],
+    "description": "Markdown Math Block v2"
+  },
+  "Math Inline": {
+    "prefix": "md-math-inline",
+    "body": [
+      "$${1:math-equation}$"
+      "${0}"
+    ],
+    "description": "Markdown Math Inline"
+  },
   "Greek Alphabet": {
     "prefix": "md-math-alphabet",
     "body": ["${1|\\alpha,\\Alpha,\\beta,\\Beta,\\gamma,\\Gamma,\\delta,\\Delta,\\epsilon,\\Epsilon,\\zeta,\\Zeta,\\eta,\\Eta,\\theta,\\Theta,\\kappa,\\Kappa,\\lambda,\\Lambda,\\mu,\\Mu,\\nu,\\Nu,\\xi,\\Xi,\\omicron,\\Omicron,\\pi,\\Pi,\\rho,\\Rho,\\sigma,\\Sigma,\\tau,\\Tau,\\upsilon,\\Upsilon,\\phi,\\Phi,\\chi,\\Chi,\\psi,\\Psi,\\omega,\\Omega|} $0"]
