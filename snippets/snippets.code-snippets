@@ -67,7 +67,7 @@
   },
   "Functions": {
     "prefix": "md-math-functions",
-    "body": ["${1|\\arccos,\\arccot,\\arccsc,\\arcsec,\\arcsin,\\arctan,\\cos,\\cosh,\\cot,\\coth,\\csc\\infty,\\int\\lim,\\log\\sec,\\sin\\sinh,\\sum\\tan,\\tanh\\to|} $0"]
+    "body": ["${1|\\arccos,\\arccot,\\arccsc,\\arcsec,\\arcsin,\\arctan,\\cos,\\cosh,\\cot,\\coth,\\csc,\\infty,\\int,\\lim,\\log,\\sec,\\sin,\\sinh,\\sum,\\tan,\\tanh,\\to|} $0"]
     "description": "Markdown Math Functions",
   },
 }
