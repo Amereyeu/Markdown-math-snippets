@@ -13,3 +13,7 @@
 ## [1.3.0]
 
 - Added Miscellaneous symbols
+
+## [1.4.0]
+
+- Added Negations

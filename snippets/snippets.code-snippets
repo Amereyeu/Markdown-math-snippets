@@ -60,6 +60,11 @@
     "body": ["${1|\\aleph,\\angle,\\backslash,\\bigstar,\\blacksquare,\\bot,\\Box,\\checkmark,\\clubsuit,\\copyright,\\cup,\\dashv,\\Diamond,\\diamondsuit,\\diamondsuit,\\ell,\\emptyset,\\exists,\\flat,\\forall,\\hbar,\\heartsuit,\\heartsuit,\\implies,\\Im,\\in,\\infty,\\Join,\\mathbb{R},\\mho,\\nabla,\\neg,\\P,\\partial,\\pounds,\\prime,\\Re,\\S,\\sharp,\\spadesuit,\\square,\\surd,\\top,\\triangle,\\vdash,\\vDash,\\wp|} $0"]
     "description": "Markdown Math Miscellaneous",
   },
+  "Negations": {
+    "prefix": "md-math-negations",
+    "body": ["${1|\\gneq,\\gneqq,\\lneq,\\lneqq,\\lnsim,\\ncong,\\ngtr,\\nleq,\\nless,\\nmid,\\not\\approx,\\not\\cong,\\not\\equiv,\\not\\ge,\\not\\le,\\not\\parallel,\\not\\sim,\\not<,\\not=,\\not>,\\nparallel,\\nsim|} $0"]
+    "description": "Markdown Math Negations",
+  },
 }
 
 

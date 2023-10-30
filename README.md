@@ -42,7 +42,7 @@
 
 <img src="images/arrows.png" alt="arrows" width="520">
 
-## Dots
+### Dots
 
 <img src="images/dots.png" alt="dots" width="520">
 
@@ -54,6 +54,10 @@
 
 <img src="images/miscellaneous.png" alt="miscellaneous" width="520">
 
+### Negations
+
+<img src="images/negations.png" alt="negations" width="520">
+
 ### Operators
 
 <img src="images/operators.png" alt="operators" width="520">
@@ -63,6 +67,8 @@
 <img src="images/relations.png" alt="relations" width="520">
 
 ## Usage
+
+VS Codium doesn't allow inserting snippets inside snippets. So first create your equation and then wrap it with `$` for inline math or `$$` for block.
 
 Snippets are only active in Markdown files. If they do not show up edit your `settings.json` file and add following code:
 
