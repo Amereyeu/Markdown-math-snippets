@@ -46,6 +46,10 @@
 
 <img src="images/dots.png" alt="dots" width="520">
 
+### Functions
+
+<img src="images/functions.png" alt="functions" width="520">
+
 ### Greek Alphabet
 
 <img src="images/alphabet.png" alt="alphabet" width="520">

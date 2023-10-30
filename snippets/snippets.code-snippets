@@ -65,6 +65,11 @@
     "body": ["${1|\\gneq,\\gneqq,\\lneq,\\lneqq,\\lnsim,\\ncong,\\ngtr,\\nleq,\\nless,\\nmid,\\not\\approx,\\not\\cong,\\not\\equiv,\\not\\ge,\\not\\le,\\not\\parallel,\\not\\sim,\\not<,\\not=,\\not>,\\nparallel,\\nsim|} $0"]
     "description": "Markdown Math Negations",
   },
+  "Functions": {
+    "prefix": "md-math-functions",
+    "body": ["${1|\\arccos,\\arccot,\\arccsc,\\arcsec,\\arcsin,\\arctan,\\cos,\\cosh,\\cot,\\coth,\\csc\\infty,\\int\\lim,\\log\\sec,\\sin\\sinh,\\sum\\tan,\\tanh\\to|} $0"]
+    "description": "Markdown Math Functions",
+  },
 }
 
 

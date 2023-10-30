@@ -17,3 +17,7 @@
 ## [1.4.0]
 
 - Added Negations
+
+## [1.5.0]
+
+- Added Functions
